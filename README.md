@@ -12,7 +12,7 @@ En mis proyectos, utilizo varios lenguajes de programación:
 - JavaScript: También tengo conocimientos en JavaScript para el desarrollo web.
 
 ## Proyecto Destacado
-Uno de los proyectos de los que estoy especialmente orgulloso es mi trabajo sobre Incrustaciones de Poincaré. En este proyecto, he explorado propiedades teóricas y aplicaciones prácticas de estas incrustaciones en Inteligencia Artificial. Puedes encontrar más detalles y el código fuente en el repositorio correspondiente.
+Uno de los proyectos de los que estoy especialmente orgulloso es mi trabajo sobre Incrustaciones de Poincaré. En este proyecto en desarrollo, he explorado propiedades teóricas y aplicaciones prácticas de estas incrustaciones en Inteligencia Artificial. Puedes encontrar más detalles y el código fuente en elfuturo repositorio correspondiente.
 
 ## Contribuciones
 Estoy abierto a recibir correcciones y contribuciones en mis proyectos. Si encuentras algún error, tienes una idea para mejorar el código o quieres colaborar en alguna funcionalidad, no dudes en enviar una solicitud de pull o contactarme directamente a través de la plataforma de GitHub.
