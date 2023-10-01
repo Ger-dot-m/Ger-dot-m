@@ -1,5 +1,7 @@
 ¡Bienvenido a mi perfil de GitHub!
 
+![Portafilio](https://github.com/Ger-dot-m/Proyectos)
+
 ## Acerca de mí
 ¡Hola! Soy Germain y este es mi perfil en GitHub, donde muestro mi trabajo y proyectos relacionados con el Aprendizaje Automático. Tengo experiencia en la aplicación de modelos de Machine Learning y me apasionan los fundamentos matemáticos detrás de la Inteligencia Artificial.
 
